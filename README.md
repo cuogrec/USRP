@@ -17,4 +17,9 @@ Lưu ý : Đây là sơ đồ thu phát trên 1 USRP
 
 <img width="554" height="454" alt="image" src="https://github.com/user-attachments/assets/08c5278f-e101-4485-a577-63e8629b1aa7" />
 
-5.Vào khối file sink chọn địa ch
+5.Vào khối file sink chọn địa chỉ muốn nhận output
+
+<img width="554" height="454" alt="image" src="https://github.com/user-attachments/assets/c23bc945-6cda-4d77-9400-793ee8940bad" />
+
+6.Nếu muốn mô phỏng thì để lại 2 khối virtual sink và virtual source, còn chạy trên usrp thì disable 2 khối đó đi, enable UHD : USRP Sink và UHD : USRP Source vào vị trí tương ứng
+
