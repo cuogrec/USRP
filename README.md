@@ -11,6 +11,8 @@ Lưu ý : Đây là sơ đồ thu phát trên 1 USRP
 
 3.Ctrl + Alt + T ; gõ lệnh python3 Padded_File_Source.py Hello.txt ; do khối stream to tagged stream có độ dài gói là 252 byte nên sau khi dùng code python sẽ sinh ra file Padded.txt với dung lượng 252 byte
 
+(HOẶC CÓ THỂ gõ python3 rồi kéo thả 2 file vào command)
+
 <img width="1441" height="574" alt="image" src="https://github.com/user-attachments/assets/c39e55e4-d0ab-4e10-8ca4-3a7e2e9d8062" />
 
 4.Vào khối file source chọn đúng địa chỉ của file Padded.txt
