@@ -5,7 +5,7 @@ Hướng dẫn sử dụng sơ đồ truyền dẫn tín hiệu qpsk
 
 Lưu ý : Đây là sơ đồ thu phát trên 1 USRP
 
-1.Tải file python Padded_File_Source.py
+1.Tải file python Padded_File_Source.py và REAL_QPSK.grc
 
 2.Chuẩn bị sẵn 1 file là Hello.txt mang thông tin muốn truyền
 
