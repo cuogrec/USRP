@@ -23,3 +23,5 @@ Lưu ý : Đây là sơ đồ thu phát trên 1 USRP
 
 6.Nếu muốn mô phỏng thì để lại 2 khối virtual sink và virtual source, còn chạy trên usrp thì disable 2 khối đó đi, enable UHD : USRP Sink và UHD : USRP Source vào vị trí tương ứng
 
+
+
