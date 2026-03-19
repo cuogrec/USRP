@@ -23,10 +23,10 @@ if not(os.path.exists(fn)):
     exit (1)
 
 # open input file
-f_in = open (fn, 'r')
+f_in = open (fn, 'rb')
 
 # open output file
-f_out = open ("padded.txt", 'w')
+f_out = open ("padded.txt", 'wb')
 
 while True:
     buff = f_in.read (Pkt_len)
@@ -37,7 +37,7 @@ while True:
         print ('End of file')
         break
     while (b_len < Pkt_len):
-        buff += ' '
+        buff += b' '
         b_len += 1
     # write output
     f_out.write (buff)
