@@ -13,7 +13,7 @@ Lưu ý : Đây là sơ đồ thu phát trên 1 USRP
 
 (HOẶC CÓ THỂ gõ python3 rồi kéo thả 2 file vào command)
 
-<img width="1441" height="574" alt="image" src="https://github.com/user-attachments/assets/c39e55e4-d0ab-4e10-8ca4-3a7e2e9d8062" />
+<img width="1297" height="705" alt="image" src="https://github.com/user-attachments/assets/b4091929-5650-4885-8c4b-96dc0a7e38e2" />
 
 4.Vào khối file source chọn đúng địa chỉ của file Padded.txt
 
